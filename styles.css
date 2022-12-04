@@ -38,6 +38,16 @@ p{
 
 }
 
+.telegram{
+    height: 4rem;
+    transition: 0.3s;
+    margin: auto;
+}
+
+.telegram:hover{
+    height: 4.8rem;
+}
+
 .github{
     height: 4rem;
     transition: 0.3s;
@@ -47,3 +57,4 @@ p{
 .github:hover{
     height: 4.8rem;
 }
+
