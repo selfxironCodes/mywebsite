@@ -1,0 +1,49 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 3em;
+}
+
+p{
+    font-size: 1.2em;
+}
+
+.roadmap:active, .roadmap:visited, .roadmap:link, .roadmap:focus{
+    color: white;
+    transition: 0.3s;
+}
+
+.roadmap:hover{
+    color: white;
+    font-size:125%;
+}
+
+.insta{
+    height: 4rem;
+    transition: 0.3s;
+    margin: auto;
+}
+
+.insta:hover{
+    height: 4.8rem;
+
+}
+
+.github{
+    height: 4rem;
+    transition: 0.3s;
+    margin: auto;
+}
+
+.github:hover{
+    height: 4.8rem;
+}
